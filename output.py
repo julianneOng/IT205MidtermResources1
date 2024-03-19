@@ -9,4 +9,4 @@ print(type(ratio))
 print(type(x))
 #string formatting- f for fstring
 print(message + "my name is jessa. I am "+str (x) +"years old")
-printf(f"{message} my name is jessa. I am {x} years old.")
+print(f"{message} my name is jessa. I am {x} years old.")
